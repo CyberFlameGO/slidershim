@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@tauri-apps/api": "^1.0.0-beta.8",
-    "sharp": "^0.30.0",
+    "sharp": "^0.30.5",
     "sirv-cli": "^2.0.0"
   }
 }
